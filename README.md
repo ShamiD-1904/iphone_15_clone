@@ -70,3 +70,11 @@ This project is deployed on Netlify.
 ## 📄 License
 
 This project is distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+## ⚠️ Disclaimer
+
+This project is a clone created for **educational purposes only** to showcase web development skills. It is not affiliated with Apple Inc. in any way.
+
+All intellectual property, including but not limited to the Apple logo, iPhone brand, product designs, and 3D models, are trademarks and property of Apple Inc. The use of this material is not intended to infringe upon Apple's copyrights or trademarks.

@@ -50,23 +50,23 @@ You must have [Node.js](https://nodejs.org/) (version 18 or higher) and `npm` in
     npm install
     ```
 
-### Running the Project
+4. **Running the Project:**
 
-Run the development server: https://iphone15prolandingclone.netlify.app/
+    ```sh
+    npm run dev
+    ```
 
-```sh
-npm run dev
-```
 
 ---
 
-##🌟 Live Demo
-Deployed using netlify. click the link belowe.
-➡️ https://iphone15prolandingclone.netlify.app/
+## 🌟 Live Demo
+
+This project is deployed on Netlify.
+
+**[➡️ View Live Demo](https://iphone15prolandingclone.netlify.app/)**
 
 ---
 
-##📄 License
-This project is distributed under the MIT License. See LICENSE for more information
+## 📄 License
 
-
+This project is distributed under the MIT License. See `LICENSE` for more information.

@@ -56,11 +56,12 @@ Run the development server: https://iphone15prolandingclone.netlify.app/
 
 ```sh
 npm run dev
-
-
-🌟 Live Demo
+```
+##🌟 Live Demo
 Deployed using netlify. click the link belowe.
 ➡️ https://iphone15prolandingclone.netlify.app/
 
-📄 License
+##📄 License
 This project is distributed under the MIT License. See LICENSE for more information
+
+

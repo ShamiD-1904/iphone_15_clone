@@ -23,5 +23,53 @@ dist-ssr
 *.sln
 *.sw?
 
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
 # Sentry Config File
 .env.sentry-build-plugin
+
+# Package manager lock files (choose one based on your preference)
+# Uncomment the one you DON'T want to track:
+# package-lock.json  # if using yarn
+# yarn.lock          # if using npm
+
+# Build output
+build/
+coverage/
+.nyc_output
+
+# Cache directories
+.cache/
+.parcel-cache/
+.eslintcache
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# IDE and editor files
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+*.sublime-project
+*.sublime-workspace
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+

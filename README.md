@@ -2,7 +2,7 @@
 
 A visually stunning and animated clone of the iPhone 15 Pro's official product website. This project was built to practice and showcase modern web technologies, including 3D model integration and complex web animations.
 
-![iPhone 15 Pro Clone Banner](https://user-images.githubusercontent.com/assets/19484501/9144800e-2602-4c21-8176-b5d19e34c672/iphone-15-pro.jpg) ---
+
 
 ## ✨ Features
 
@@ -56,3 +56,11 @@ Run the development server: https://iphone15prolandingclone.netlify.app/
 
 ```sh
 npm run dev
+
+
+🌟 Live Demo
+Deployed using netlify. click the link belowe.
+➡️ https://iphone15prolandingclone.netlify.app/
+
+📄 License
+This project is distributed under the MIT License. See LICENSE for more information

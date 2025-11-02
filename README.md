@@ -1,16 +1,66 @@
-# React + Vite
+# 📱 iPhone 15 Pro Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually stunning and animated clone of the iPhone 15 Pro's official product website. This project was built to practice and showcase modern web technologies, including 3D model integration and complex web animations.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Dynamic 3D Models:** Utilizes **Three.js** to render and interact with 3D models of the iPhone 15 Pro.
+* **Silky-Smooth Animations:** Leverages the **GSAP** (GreenSock Animation Platform) library for high-performance, complex animations and scroll-based transitions.
+* **Responsive Design:** A fully responsive layout that looks great on all devices, built with **Tailwind CSS**.
+* **Modern Frontend:** Built on a **React + Vite** stack for a fast and efficient development experience.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+This project is built with a modern tech stack:
+
+* **[React](https://react.dev/):** A JavaScript library for building user interfaces.
+* **[Vite](https://vitejs.dev/):** A next-generation frontend tooling for a faster build and dev experience.
+* **[Three.js](https://threejs.org/):** A 3D graphics library for creating and displaying 3D computer graphics in a web browser.
+* **[GSAP](https://gsap.com/):** A professional animation library for creating high-performance animations.
+* **[Tailwind CSS](https://tailwindcss.com/):** A utility-first CSS framework for rapid UI development.
+
+---
+
+## 🚀 Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+You must have [Node.js](https://nodejs.org/) (version 18 or higher) and `npm` installed on your machine.
+
+### Installation
+
+1.  **Clone the repository:**
+    ```sh
+    git clone [https://github.com/ShamiD-1904/iphone_15_clone.git](https://github.com/ShamiD-1904/iphone_15_clone.git)
+    ```
+
+2.  **Navigate to the project directory:**
+    ```sh
+    cd iphone_15_clone
+    ```
+
+3.  **Install NPM packages:**
+    ```sh
+    npm install
+    ```
+
+### Running the Project
+
+Run the development server: https://iphone15prolandingclone.netlify.app/
+
+```sh
+npm run dev
+
+
+🌟 Live Demo
+Deployed using netlify. click the link belowe.
+➡️ https://iphone15prolandingclone.netlify.app/
+
+📄 License
+This project is distributed under the MIT License. See LICENSE for more information
